@@ -3,7 +3,7 @@
 -->
 
 # 👋 Hi, I'm Aalok Shaw  
-🚀 **Full-Stack Developer 
+🚀 Full-Stack Developer 
 
 ---
 
