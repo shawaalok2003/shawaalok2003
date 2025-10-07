@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Aalok Shaw  
 🚀 Full-Stack Developer 
-
+![Profile Views](https://komarev.com/ghpvc/?username=shawaalok2003&label=Profile%20Views&color=0e75b6&style=flat)
 ---
 
 ## 🚀 About Me
